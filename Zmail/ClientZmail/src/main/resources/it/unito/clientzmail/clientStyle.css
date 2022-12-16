@@ -1,0 +1,24 @@
+#menuSide{
+    -fx-background-color: #86cfc6;
+}
+#composeBtn,#sentBtn,#inboxBtn,#searchBtn{
+    -fx-background-color:#fff;
+    -fx-border-radius: 0 ;
+}
+#topNav{
+    -fx-background-color: #00a990;
+}
+#boxList{
+    -fx-background-color: #fff;
+}
+#composeBtn{
+    -fx-border-radius: 500px;
+    -fx-border-style: none;
+
+}
+#inboxList{
+    -fx-background-color: green;
+}
+#sentList{
+    -fx-background-color: red;
+}
